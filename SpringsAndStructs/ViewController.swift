@@ -30,7 +30,7 @@ class ViewController: UIViewController {
             blueView.frame = CGRect(x: 340, y: 20, width: 307, height: 161.5)
             orangeView.frame = CGRect(x: 20, y: 193, width: 307, height: 161.5)
             greyView.frame = CGRect(x: 340, y: 193, width: 307, height: 161.5)
-            
+        
         } else {
             
             redView.frame = CGRect(x: 25, y: 44, width: 160, height: 300)

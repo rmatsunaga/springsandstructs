@@ -12,6 +12,7 @@
 		E013F3D72192600000B01D9F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E013F3D52192600000B01D9F /* Main.storyboard */; };
 		E013F3D92192600400B01D9F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E013F3D82192600400B01D9F /* Assets.xcassets */; };
 		E013F3DC2192600400B01D9F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E013F3DA2192600400B01D9F /* LaunchScreen.storyboard */; };
+		E013F3E42192833300B01D9F /* LayoutGuides.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E013F3E32192833300B01D9F /* LayoutGuides.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E013F3D82192600400B01D9F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E013F3DB2192600400B01D9F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E013F3DD2192600400B01D9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E013F3E32192833300B01D9F /* LayoutGuides.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LayoutGuides.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				E013F3D82192600400B01D9F /* Assets.xcassets */,
 				E013F3DA2192600400B01D9F /* LaunchScreen.storyboard */,
 				E013F3DD2192600400B01D9F /* Info.plist */,
+				E013F3E32192833300B01D9F /* LayoutGuides.storyboard */,
 			);
 			path = SpringsAndStructs;
 			sourceTree = "<group>";
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E013F3DC2192600400B01D9F /* LaunchScreen.storyboard in Resources */,
+				E013F3E42192833300B01D9F /* LayoutGuides.storyboard in Resources */,
 				E013F3D92192600400B01D9F /* Assets.xcassets in Resources */,
 				E013F3D72192600000B01D9F /* Main.storyboard in Resources */,
 			);
